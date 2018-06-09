@@ -1,2 +1,2 @@
 # dynamodb_python_helpers
-Helpers functions used to scan DynamoDB tables with care
+Creates pandas Dataframe from a DynamoDB table
